@@ -91,3 +91,16 @@ Net2 contains Net1 as a sub-network.
 ## References
 * ["Phonetic posteriorgrams for many-to-one voice conversion without parallel data training"](https://www.researchgate.net/publication/307434911_Phonetic_posteriorgrams_for_many-to-one_voice_conversion_without_parallel_data_training), 2016 IEEE International Conference on Multimedia and Expo (ICME)
 * ["TACOTRON: TOWARDS END-TO-END SPEECH SYNTHESIS"](https://arxiv.org/abs/1703.10135), Submitted to Interspeech 2017
+
+## My Version 
+This includes some bug fixes and this code runs with following versions of the packages, make sure you've the same versions before you run the code.
+* Tensorpack - 0.9.0.1 or 0.9.1
+* pydub
+* soundfile 
+* tensorflow-plot
+* tensorflow-gpu - 1.15.0
+* librosa - 0.6.3
+
+This code is in tensorflow version 1.
+
+
